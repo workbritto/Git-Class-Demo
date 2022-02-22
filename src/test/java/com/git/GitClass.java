@@ -19,10 +19,4 @@ public class GitClass {
 	private void method6() {
 		System.out.println("6");
 	}
-	private void method7() {
-		System.out.println("7");
-	}
-	private void method8() {
-		System.out.println("8");
-	}
 }
